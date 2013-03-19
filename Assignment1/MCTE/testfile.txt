@@ -1,0 +1,19 @@
+What is the Capital of India?
+Dehli
+Mumbai
+Jbp
+Kgp
+1
+What is USA?
+Continent
+Country
+State
+City
+2
+Who are u?
+Parent
+Teacher
+Staff
+Student
+4
+
